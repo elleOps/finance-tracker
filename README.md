@@ -384,3 +384,28 @@ Then open the local Vite URL shown in the terminal.
 ---
 
 Built as a personal software engineering portfolio project.
+
+## 📜 License & Copyright
+
+Copyright © 2026 elleOps. All rights reserved.
+
+This repository is publicly available for viewing and educational purposes.
+
+You may:
+
+* View the source code
+* Run the project locally for personal or educational purposes
+* Reference the project as an example
+
+You may not, without prior written permission:
+
+* Claim this project or its code as your own
+* Present substantial portions of the code as your original work
+* Redistribute or sell the code as your own
+* Publish modified versions of the project as your own
+* Remove or alter copyright and attribution notices
+
+If you'd like to use, modify, or redistribute the code beyond these permissions, please contact the author for permission.
+
+The project name, design, documentation, and source code remain the property of the author.
+
